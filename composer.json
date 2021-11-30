@@ -1,5 +1,5 @@
 {
-    "name": "hughgrigg/php-business-time",
+    "name": "blumfontein/php-business-time",
     "description": "Business time / working days extension for Carbon dates",
     "type": "library",
     "require": {
